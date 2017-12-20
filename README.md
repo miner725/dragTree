@@ -26,4 +26,8 @@ npm run build
 npm run build --report
 ```
 
+
+
+#install 有报错，请使用 淘宝 cnpm（npm install -g cnpm --registry=https://registry.npm.taobao.org），再运行cnpm安装依赖包。
+
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
